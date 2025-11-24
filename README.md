@@ -36,16 +36,26 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ## 🧪 PROCEDURE
 
-1. Place the optical breadboard on a flat surface.
-2. Mount the He-Ne laser source securely onto the breadboard.
-3. Attach the laser to the fiber coupler mount, aligned with the laser exit.
-4. Turn on the laser and align the beam spot centrally using the mount's travel adjustments.
-5. Check for back reflection from the rod lens and adjust screws to redirect it into the laser exit.
-6. Confirm central alignment using a white card; adjust if off-center.
-7. Connect the multimode fiber patch cord to the coupler and secure the other end in the fiber holder.
-8. Adjust the fiber tip height to ~50 mm above the white sheet.
-9. Observe the multimode speckle pattern on the screen. Adjust screws to refine the pattern.
-10. Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
+1. Keep the optical bread board on a flat and stable table surface so that it will not toggle.
+
+2. Fix the pre-fitted cylindrical head of the He-Ne laser source onto the surface of the bread board and confirm the rigidity of the mount.
+
+3. Fix the laser to the fiber coupler mount on the bread board with the base plate oriented towards the He-Ne laser exit.
+
+4. Turn on the He-Ne laser and locate the beam spot on the central portion of the laser-fiber coupling lens assembly by adjusting the vertical and horizontal travel arrangements. Tighten the screws after alignment.
+
+5. Look for the back reflection of the He-Ne laser spot from the rod lens of the coupler. If the back-reflected spot is away from the exit of the cylindrical laser head, slowly adjust the four screws on the laser mount to bring it back into the exit hole.
+
+6. Confirm the central alignment of the laser beam at the exit of the laser fiber coupler using a white card sheet. If the spot is off-center, slightly adjust the screws of the laser mount.
+
+7. Connect the multimode optical patch cord to the laser fiber coupler exit and fix the other end of the fiber in the fiber-holding stand using the grub screws.
+
+8. Observe the bright laser beam coming out of the fiber and adjust the exit tip height to at least 50 mm above the white sheet.
+
+9. Observe the bright circular spot with a laser speckle pattern on the screen. Refine the multimode pattern using the screws on the laser-fiber coupler. After observation, replace the multimode patch cord with a single-mode fiber patch cord.
+
+10. For the single-mode patch cord, observe the blur patterns such as single circular, two-lobe, three-lobe, and four-lobe patterns by slightly adjusting the Allen screws of the laser-fiber coupler.
+
 
 ---
 
